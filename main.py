@@ -3,6 +3,9 @@ import os
 import numpy as np
 from PIL import Image
 
+log = open("logs.log", "w")
+log.close()
+
 logging.basicConfig(filename='logs.log', level=logging.DEBUG)
 
 gscale1 = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'  "
