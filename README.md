@@ -8,4 +8,6 @@ Here is a sample video of the output: https://youtu.be/RczhTF52A0s
 
 2. Mention the path to the video you want to convert, by editing the video2frames.py file.
 
-3. Run the main.py and you all get the animation in your terminal!! 
+3. Run the video2frames.py file.
+
+4. Run the main.py file and you all get the animation in your terminal!! 
