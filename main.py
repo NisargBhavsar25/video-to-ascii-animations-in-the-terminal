@@ -4,6 +4,7 @@ import numpy as np
 from PIL import Image
 
 log = open("logs.log", "w")
+log.write("")
 log.close()
 
 logging.basicConfig(filename='logs.log', level=logging.DEBUG)
