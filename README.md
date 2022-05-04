@@ -1,5 +1,5 @@
 # video-to-ascii-animations-in-the-terminal
-This irepository can be used to convert a video into a ascii video that gets played inside the terminal.
+This repository can be used to convert a video into a ascii video that gets played inside the terminal.
 
 Here is a sample video of the output: https://youtu.be/RczhTF52A0s
 
